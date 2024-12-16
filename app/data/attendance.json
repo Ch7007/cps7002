@@ -1,0 +1,14 @@
+{
+  "attendance_001": {
+    "member_id": "member_001",
+    "date": "2024-02-05",
+    "zone": "Cardio Zone",
+    "activity": "Treadmill"
+  },
+  "attendance_002": {
+    "member_id": "member_002",
+    "date": "2024-02-06",
+    "zone": "Yoga Room",
+    "activity": "Group Class"
+  }
+}

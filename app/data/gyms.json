@@ -1,0 +1,19 @@
+{
+  "gym_001": {
+    "name": "Downtown Fitness",
+    "city": "New York",
+    "workout_zones": [
+      {
+        "name": "Cardio Zone",
+        "equipment": ["Treadmill", "Elliptical", "Rowing Machine"],
+        "attendant": "John Doe"
+      },
+      {
+        "name": "Weightlifting Zone",
+        "equipment": ["Bench Press", "Dumbbells", "Squat Rack"],
+        "attendant": "Jane Smith"
+      }
+    ],
+    "manager": "Michael Brown"
+  }
+}
