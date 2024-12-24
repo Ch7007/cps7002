@@ -1,0 +1,4 @@
+appointment_id,member_id,trainer_id,appointment_type,date_time,status
+12,12,12,kk,12,jj
+A001,M001,T001,Training,2024-12-20 08:00,Scheduled
+A002,M002,T002,Consultation,2024-12-21 10:00,Scheduled

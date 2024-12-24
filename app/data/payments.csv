@@ -1,0 +1,3 @@
+payment_id,member_id,amount,date,method
+P001,M001,100.0,2024-12-01,Credit Card
+P002,M002,150.0,2024-12-05,Cash
