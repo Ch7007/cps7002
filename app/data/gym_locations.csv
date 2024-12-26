@@ -1,0 +1,8 @@
+location_id,city,manager_name,workout_zones,equipment,amenities
+n,,,[''],,
+454,islamabad,ali,cardio,tread machine,abc
+1,islamabad,ali,cardio,ssa,sa
+L001,New York,Alice,"Cardio,Weights","Treadmill,Dumbbells","Sauna,Pool"
+L001,New York,Alice,"Cardio,Weights","Treadmill,Dumbbells","Sauna,Pool"
+L001,New York,Alice,"Cardio,Weights","Treadmill,Dumbbells","Sauna,Pool"
+L001,New York,Alice,"Cardio,Weights","Treadmill,Dumbbells","Sauna,Pool"

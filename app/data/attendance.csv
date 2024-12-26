@@ -1,0 +1,3 @@
+record_id,member_id,date_time,activity_type
+R001,M001,2024-12-10 09:00,Workout
+R002,M002,2024-12-11 10:00,Class

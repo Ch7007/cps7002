@@ -1,0 +1,10 @@
+member_id,name,email,phone,membership_type,join_date
+M002,Jane Smith,jane@example.com,0987654321,Premium,2024-02-01
+M001,John Doe,john@example.com,1234567890,Regular,2024-01-01
+M002,Jane Smith,jane@example.com,0987654321,Premium,2024-02-01
+M001,John Doe,john@example.com,1234567890,Regular,2024-01-01
+M001,John Doe,john@example.com,1234567890,Regular,2024-01-01
+M001,John Doe,john@example.com,1234567890,Regular,2024-01-01
+M001,John Doe,john@example.com,1234567890,Regular,2024-01-01
+M001,John Doe,john@example.com,1234567890,Regular,2024-01-01
+M001,John Doe,john@example.com,1234567890,Regular,2024-01-01
