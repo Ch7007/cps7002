@@ -1,4 +1,4 @@
-from src.services.subscription_service import SubscriptionService
+from app.services.subscription_service import SubscriptionService
 
 class SubscriptionController:
     def __init__(self):

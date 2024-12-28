@@ -1,5 +1,5 @@
 import unittest
-from src.services.workout_zone_service import WorkoutZoneService
+from app.services.workout_zone_service import WorkoutZoneService
 
 class TestWorkoutZoneService(unittest.TestCase):
 

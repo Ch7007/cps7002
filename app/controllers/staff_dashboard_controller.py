@@ -1,4 +1,4 @@
-from src.services.staff_dashboard_service import StaffDashboardService
+from app.services.staff_dashboard_service import StaffDashboardService
 
 class StaffDashboardController:
     def __init__(self):

@@ -1,5 +1,5 @@
-from src.models.workout_zone import WorkoutZone
-from src.utils.csv_processor import CSVProcessor
+from app.models.workout_zone import WorkoutZone
+from app.utils.csv_processor import CSVProcessor
 
 class WorkoutZoneService:
     def __init__(self, csv_file='data/workout_zones.csv'):

@@ -1,4 +1,4 @@
-from src.services.gym_location_service import GymLocationService
+from app.services.gym_location_service import GymLocationService
 
 class GymLocationController:
     def __init__(self):

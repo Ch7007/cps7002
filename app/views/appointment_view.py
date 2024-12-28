@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from src.controllers.appointment_controller import AppointmentController
+from app.controllers.appointment_controller import AppointmentController
 
 class AppointmentView:
     def __init__(self, root):

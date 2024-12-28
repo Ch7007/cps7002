@@ -1,5 +1,5 @@
-from src.models.payment import Payment
-from src.utils.csv_processor import CSVProcessor
+from app.models.payment import Payment
+from app.utils.csv_processor import CSVProcessor
 
 class PaymentService:
     def __init__(self, csv_file='data/payments.csv'):

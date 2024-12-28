@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from src.controllers.subscription_controller import SubscriptionController
+from app.controllers.subscription_controller import SubscriptionController
 
 class SubscriptionView:
     def __init__(self, root):

@@ -1,5 +1,5 @@
 import unittest
-from src.services.attendance_service import AttendanceService
+from app.services.attendance_service import AttendanceService
 
 class TestAttendanceService(unittest.TestCase):
 

@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from src.controllers.gym_location_controller import GymLocationController
+from app.controllers.gym_location_controller import GymLocationController
 
 class GymLocationView:
     def __init__(self, root):

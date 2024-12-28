@@ -1,5 +1,5 @@
 import unittest
-from src.services.appointment_service import AppointmentService
+from app.services.appointment_service import AppointmentService
 
 class TestAppointmentService(unittest.TestCase):
 

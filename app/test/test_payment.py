@@ -1,5 +1,5 @@
 import unittest
-from src.services.payment_service import PaymentService
+from app.services.payment_service import PaymentService
 
 class TestPaymentService(unittest.TestCase):
 

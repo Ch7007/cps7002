@@ -1,4 +1,4 @@
-from src.utils.csv_processor import CSVProcessor
+from app.utils.csv_processor import CSVProcessor
 
 class StaffDashboardService:
     def __init__(self, members_csv='data/members.csv', payments_csv='data/payments.csv', trainer_schedules_csv='data/trainer_schedules.csv', equipment_maintenance_csv='data/equipment_maintenance.csv'):

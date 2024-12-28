@@ -1,13 +1,13 @@
 import tkinter as tk
 from tkinter import ttk
-from src.views.gym_location_view import GymLocationView
-from src.views.workout_zone_view import WorkoutZoneView
-from src.views.member_profile_view import MemberProfileView
-from src.views.appointment_view import AppointmentView
-from src.views.attendance_view import AttendanceView
-from src.views.payment_view import PaymentView
-from src.views.subscription_view import SubscriptionView
-from src.views.staff_dashboard_view import StaffDashboardView
+from app.views.gym_location_view import GymLocationView
+from app.views.workout_zone_view import WorkoutZoneView
+from app.views.member_profile_view import MemberProfileView
+from app.views.appointment_view import AppointmentView
+from app.views.attendance_view import AttendanceView
+from app.views.payment_view import PaymentView
+from app.views.subscription_view import SubscriptionView
+from app.views.staff_dashboard_view import StaffDashboardView
 
 class MainApplication:
     def __init__(self, root):

@@ -1,5 +1,5 @@
-from src.models.appointment import Appointment
-from src.utils.csv_processor import CSVProcessor
+from app.models.appointment import Appointment
+from app.utils.csv_processor import CSVProcessor
 
 class AppointmentService:
     def __init__(self, csv_file='data/appointments.csv'):

@@ -1,5 +1,5 @@
-from src.models.attendance_record import AttendanceRecord
-from src.utils.csv_processor import CSVProcessor
+from app.models.attendance_record import AttendanceRecord
+from app.utils.csv_processor import CSVProcessor
 
 class AttendanceService:
     def __init__(self, csv_file='data/attendance.csv'):

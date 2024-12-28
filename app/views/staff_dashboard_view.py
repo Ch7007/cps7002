@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
-from src.controllers.staff_dashboard_controller import StaffDashboardController
+from app.controllers.staff_dashboard_controller import StaffDashboardController
 
 class StaffDashboardView:
     def __init__(self, root):

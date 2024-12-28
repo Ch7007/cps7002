@@ -1,4 +1,4 @@
-from src.services.payment_service import PaymentService
+from app.services.payment_service import PaymentService
 
 class PaymentController:
     def __init__(self):

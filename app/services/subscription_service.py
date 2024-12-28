@@ -1,6 +1,6 @@
-from src.models.subscription_plan import SubscriptionPlan
-from src.models.subscription import Subscription
-from src.utils.csv_processor import CSVProcessor
+from app.models.subscription_plan import SubscriptionPlan
+from app.models.subscription import Subscription
+from app.utils.csv_processor import CSVProcessor
 
 class SubscriptionService:
     def __init__(self, plans_csv='data/subscription_plans.csv', subscriptions_csv='data/subscriptions.csv'):

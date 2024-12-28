@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from src.controllers.member_profile_controller import MemberProfileController
+from app.controllers.member_profile_controller import MemberProfileController
 
 
 class MemberProfileView:

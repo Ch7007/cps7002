@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from src.controllers.attendance_controller import AttendanceController
+from app.controllers.attendance_controller import AttendanceController
 
 class AttendanceView:
     def __init__(self, root):

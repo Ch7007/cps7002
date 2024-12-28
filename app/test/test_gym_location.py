@@ -1,5 +1,5 @@
 import unittest
-from src.services.gym_location_service import GymLocationService
+from app.services.gym_location_service import GymLocationService
 
 class TestGymLocationService(unittest.TestCase):
 

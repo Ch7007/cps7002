@@ -1,5 +1,5 @@
-from src.models.gym_location import GymLocation
-from src.utils.csv_processor import CSVProcessor
+from app.models.gym_location import GymLocation
+from app.utils.csv_processor import CSVProcessor
 
 class GymLocationService:
     def __init__(self, csv_file='data/gym_locations.csv'):

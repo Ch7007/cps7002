@@ -1,5 +1,5 @@
-from src.models.member_profile import MemberProfile
-from src.utils.csv_processor import CSVProcessor
+from app.models.member_profile import MemberProfile
+from app.utils.csv_processor import CSVProcessor
 
 class MemberProfileService:
     def __init__(self, csv_file='data/members.csv'):

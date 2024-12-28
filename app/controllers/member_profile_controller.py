@@ -1,4 +1,4 @@
-from src.services.member_profile_service import MemberProfileService
+from app.services.member_profile_service import MemberProfileService
 
 class MemberProfileController:
     def __init__(self):

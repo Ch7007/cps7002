@@ -1,6 +1,6 @@
 import unittest
-from src.services.member_profile_service import MemberProfileService
-from src.models.member_profile import MemberProfile
+from app.services.member_profile_service import MemberProfileService
+from app.models.member_profile import MemberProfile
 
 
 class TestMemberProfileService(unittest.TestCase):

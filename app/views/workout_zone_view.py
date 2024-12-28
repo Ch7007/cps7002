@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from src.controllers.workout_zone_controller import WorkoutZoneController
+from app.controllers.workout_zone_controller import WorkoutZoneController
 
 class WorkoutZoneView:
     def __init__(self, root):
